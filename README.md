@@ -1,1 +1,1 @@
-# demo-spring-boot-docker-v1
+# demo-spring-boot-docker-v2
